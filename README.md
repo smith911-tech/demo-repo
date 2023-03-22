@@ -1,3 +1,3 @@
 # Demo head
 
-desc some plain text
+desc some plain ~
